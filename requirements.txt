@@ -1,0 +1,19 @@
+# Web Framework
+Flask==3.0.0
+flask-cors==5.0.0
+
+# AI/ML APIs
+openai==1.109.1
+
+# HTTP Requests (for ElevenLabs API)
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Data Processing
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Date/Time
+python-dateutil==2.9.0
